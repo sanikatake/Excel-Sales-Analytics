@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer Discount report]
+    **1.** Create a _[customer Discount report]https://github.com/sanikatake/Excel-Sales-Analytics/blob/main/Customer%20Discount%20Report.pdf
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
